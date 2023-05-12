@@ -1,5 +1,6 @@
 #animal-photos {
-	
+	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	background-color:#484848;
 }
@@ -11,8 +12,7 @@ img {
 	width: 200px;
 	margin: 10px;
 	border-radius: 10px;
-	display: flex;
-	flex-wrap: wrap;
+	
 }
 
 
